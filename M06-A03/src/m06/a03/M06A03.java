@@ -18,6 +18,7 @@ public class M06A03
     public static void main(String[] args)
     {
         System.out.println("Hello GitHub");
+        System.out.println("Shut up!");
         // TODO code application logic here
     }
     
